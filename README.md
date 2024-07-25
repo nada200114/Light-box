@@ -1,0 +1,2 @@
+# Light-box
+display images
